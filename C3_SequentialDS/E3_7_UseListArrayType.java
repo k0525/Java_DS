@@ -1,3 +1,5 @@
+package C3_SequentialDS;
+
 import java.util.Arrays;
 
 public class E3_7_UseListArrayType{

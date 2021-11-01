@@ -1,3 +1,5 @@
+package C3_SequentialDS;
+
 import java.util.Random;
 
 public class E3_6_UseSparseMatrix {

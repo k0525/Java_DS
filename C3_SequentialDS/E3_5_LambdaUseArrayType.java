@@ -1,3 +1,5 @@
+package C3_SequentialDS;
+
 @FunctionalInterface
 interface LambdaInterface{
     void print(int[][] a, String name);

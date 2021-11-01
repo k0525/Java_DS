@@ -1,4 +1,4 @@
-package Chapter2;
+package C2_Algorithm;
 import java.util.Random;
 import java.util.Scanner;
 

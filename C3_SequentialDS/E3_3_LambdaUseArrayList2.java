@@ -1,3 +1,5 @@
+package C3_SequentialDS;
+
 @FunctionalInterface
 interface LambdaArray{
     void print(int[] a, char ch);

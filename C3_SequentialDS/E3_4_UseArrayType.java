@@ -1,3 +1,5 @@
+package C3_SequentialDS;
+
 public class E3_4_UseArrayType{
     static void print(int[][] a, String name){
         for(int i = 0; i<a.length; i++)

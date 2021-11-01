@@ -1,3 +1,5 @@
+package C3_SequentialDS;
+
 class ArrayLinearList{
     private int no;                         //배열의 현재 원소 나타내는 변수
     private int size;                       //배열의 크기

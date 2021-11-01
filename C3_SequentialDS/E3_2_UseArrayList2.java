@@ -1,3 +1,5 @@
+package C3_SequentialDS;
+
 public class E3_2_UseArrayList2 {
     static void print(int a[], char ch){
         for(int i = 0; i<a.length; i++)

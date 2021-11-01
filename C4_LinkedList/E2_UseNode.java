@@ -1,3 +1,5 @@
+package C4_LinkedList;
+
 public class E2_UseNode {
     public static void main(String[] args) {
         Node1 obj = new Node1();

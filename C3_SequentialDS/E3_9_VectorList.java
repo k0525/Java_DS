@@ -1,3 +1,5 @@
+package C3_SequentialDS;
+
 import java.util.Vector;
 
 //벡터는 가변 크기의 배열을 다룰 수 있는 자료구조

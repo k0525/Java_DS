@@ -1,3 +1,5 @@
+package C4_LinkedList;
+
 import java.util.Scanner;
 
 public class E3_Node2 {
